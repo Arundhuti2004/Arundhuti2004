@@ -1,4 +1,4 @@
-### Hello!👋 I am Arundhuti
+
 
 <!--
 **Arundhuti2004/Arundhuti2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <!-- profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arundhuti2004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<p align="center">Hello!👋 I am Arundhuti</p>
 
 <!-- social links -->
 <h3 align="center">Connect with me</h3>
