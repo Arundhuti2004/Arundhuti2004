@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://www.instagram.com/l_am_aru_/#"><img height="34" src="instagram.png" alt="Instagram"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/arundhuti-sarkar-37b2b0243"><img height="34" src="linkedin.png".png alt="Instagram"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/arundhuti-sarkar-37b2b0243"><img height="34" src="linkedin.png".png alt="linkedin"></a>&nbsp;&nbsp;
 </p>
 
 <!-- github trophies -->
