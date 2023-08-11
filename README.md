@@ -49,6 +49,10 @@ Here are some ideas to get you started:
     <p></p>
     <img src="https://github-readme-stats.vercel.app/api?username=Arundhuti2004&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&count_private=true" alt="github stats">
     &nbsp;&nbsp;
+    <h1 align=center>
+
+💻 Language 🖱️
+</h1>
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=Arundhuti2004&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10" height="194.8px" alt="language stats">
 </div>
 <br>
