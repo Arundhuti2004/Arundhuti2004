@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <p></p>
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=Arundhuti2004&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=github_dark&border_radius=10" alt="github stats">
     &nbsp;&nbsp;
-   <!-- <img width=290 src="https://github-readme-stats.vercel.app/api/top-langs?username=Alik-Agarwala&show_icons=true&locale=en&theme=github_dark&border_radius=10&layout=compact&langs_count=10" height="160" alt="language stats">-->
+   <img width=420 src="https://github-readme-stats.vercel.app/api/top-langs?username=Arundhuti2004&show_icons=true&locale=en&theme=github_dark&border_radius=10&layout=compact&langs_count=10"  alt="language stats">
 </div>
 <br>
 
