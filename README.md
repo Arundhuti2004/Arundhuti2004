@@ -42,12 +42,14 @@ Here are some ideas to get you started:
 
 <!-- github stats -->
 <h3 align="center"> 📊 GitHub Stats 📈</h3>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Arundhuti2004&count_private=true&theme=windows-dark&border_radius=10" alt="streak stats"/>
-  <img width=368 src="https://github-readme-stats.vercel.app/api?username=Arundhuti2004&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=github_dark&border_radius=10" alt="github stats">
+<div align="center">
+    <!-- <img height="160px" width="160px" src="images/wings/left.svg" alt="left wing"> to be made responsive -->
+    <img width=390 src="https://streak-stats.demolab.com/?user=Arundhuti2004&count_private=true&theme=windows-dark&border_radius=10" alt="streak stats">
+    <!-- <img height="160px" width="160px" src="images/wings/right.svg" alt="right wing">  to be made responsive -->
+    <p></p>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=Arundhuti2004&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=github_dark&border_radius=10" alt="github stats">
     &nbsp;&nbsp;
-  <br/>
-  <img width=370 align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=Arundhuti2004&show_icons=true&locale=en&theme=github_dark&border_radius=10&layout=compact&langs_count=10" height="194.8px" alt="language stats">
+    <img width=290 src="https://github-readme-stats.vercel.app/api/top-langs?username=Alik-Agarwala&show_icons=true&locale=en&theme=github_dark&border_radius=10&layout=compact&langs_count=10" height="160" alt="language stats">
 </div>
 <br>
 
