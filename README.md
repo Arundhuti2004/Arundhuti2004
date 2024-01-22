@@ -52,6 +52,9 @@ Here are some ideas to get you started:
    <img width=420 src="https://github-readme-stats.vercel.app/api/top-langs?username=Arundhuti2004&show_icons=true&locale=en&theme=github_dark&border_radius=10&layout=compact&langs_count=10"  alt="language stats">
 </div>
 <br>
+<!---coding Stats--->
+<h3 align="center">📊 Coding Stats 📈</h3>
+<p align="center"><img src="https://leetcard.jacoblin.cool/Arundhutisarkar?ext=heatmap&theme=dark"></p>
 
 <!-- Skills -->
 <h1 align=center>
